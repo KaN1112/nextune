@@ -1,0 +1,2 @@
+3dc8a6bec6240f51f05ab2857963037c220a63861f7677e96e79f095a46dba1f  /mnt/data/NexTune-download-site/downloads/NexTune_1.0.0_x64-setup.exe
+7bce8555bc4bc81f3680f564bf410584bcff767b9cf98f8f0a09e7f14f543fab  /mnt/data/NexTune-download-site/downloads/NexTune.exe
